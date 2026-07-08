@@ -1,0 +1,11 @@
+name: Xiaohongshu Post-Publish Review
+description: Review Xiaohongshu post-publish data and next tests.
+skill: xhs-postpublish-review
+tags:
+  - postpublish-review
+  - analytics-review
+  - xiaohongshu
+  - rednote
+  - creator-tools
+  - content-workflow
+  - social-media
